@@ -14,7 +14,7 @@ You can run
 
 
 
-I've learnt this project's implementation through [Dave's](https://github.com/gitdagray) youtube series on React. The link to the series is [HERE](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd)
+I've learnt this project's implementation through [Dave's](https://github.com/gitdagray) React series on youtube. Youtube series link -> [HERE](https://www.youtube.com/playlist?list=PL0Zuz27SZ-6PRCpm9clX0WiBEMB70FWwd)
 
 
 
