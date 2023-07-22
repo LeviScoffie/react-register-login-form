@@ -2,7 +2,7 @@
 This project creates  register and login form components using  a create-react-app template from **React** and **Vite**. Currently, it does not have a backend API endpoint  that it consumes since this is purely for educational purposes of Frontend development. 
 To get started with the project you can  clone via:
 
-`git clone `
+`git clone git@github.com:LeviScoffie/react-register-login-form.git `
 
 To run the codebase:
 
